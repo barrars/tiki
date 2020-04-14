@@ -1,0 +1,4708 @@
+{
+  "data": [
+    {
+      "name": "AKU AKU",
+      "ingredient": "(1-INCH-SQUARE) CHUNKS PINEAPPLE",
+      "category": "FRUIT",
+      "type": "(PINEAPPLE)",
+      "page": 39
+    },
+    {
+      "name": "AKU AKU",
+      "ingredient": "MINT LEAVES",
+      "category": "LEAVES",
+      "type": "(MINT)",
+      "page": 39
+    },
+    {
+      "name": "AKU AKU",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 39
+    },
+    {
+      "name": "AKU AKU",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 39
+    },
+    {
+      "name": "AKU AKU",
+      "ingredient": "PEACH LIQUEUR (SUCH AS MATHILDE, COMBIER, OR GIFFARD)",
+      "category": "LIQUEUR",
+      "type": "(PEACH)",
+      "page": 39
+    },
+    {
+      "name": "AKU AKU",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 39
+    },
+    {
+      "name": "PUPULE",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 39
+    },
+    {
+      "name": "PUPULE",
+      "ingredient": "ORANGE JUICE",
+      "category": "JUICE",
+      "type": "(ORANGE)",
+      "page": 39
+    },
+    {
+      "name": "PUPULE",
+      "ingredient": "CINNAMON SYRUP",
+      "category": "SYRUP",
+      "type": "(CINNAMON)",
+      "page": 39
+    },
+    {
+      "name": "PUPULE",
+      "ingredient": "VANILLA SYRUP",
+      "category": "SYRUP",
+      "type": "(VANILLA)",
+      "page": 39
+    },
+    {
+      "name": "PUPULE",
+      "ingredient": "ST. ELIZABETH ALLSPICE DRAM",
+      "category": "LIQUEUR",
+      "type": "(ALLSPICE DRAM)",
+      "page": 39
+    },
+    {
+      "name": "PUPULE",
+      "ingredient": "COLUMN STILL AGED RUM",
+      "category": "RUM",
+      "type": "(COLUMN STILL AGED)",
+      "page": 39
+    },
+    {
+      "name": "PUPULE",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 39
+    },
+    {
+      "name": "DON'S OWN GROG",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 40
+    },
+    {
+      "name": "DON'S OWN GROG",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 40
+    },
+    {
+      "name": "DON'S OWN GROG",
+      "ingredient": "GRENADINE",
+      "category": "SYRUP",
+      "type": "(GRENADINE)",
+      "page": 40
+    },
+    {
+      "name": "DON'S OWN GROG",
+      "ingredient": "LEOPOLD BROTHERS ROCKY MOUNTAIN BLACKBERRY LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(BLACKBERRY)",
+      "page": 40
+    },
+    {
+      "name": "DON'S OWN GROG",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 40
+    },
+    {
+      "name": "DON'S OWN GROG",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 40
+    },
+    {
+      "name": "DON'S OWN GROG",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 40
+    },
+    {
+      "name": "DON'S OWN GROG",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 40
+    },
+    {
+      "name": "PORT AU PRINCE",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 40
+    },
+    {
+      "name": "PORT AU PRINCE",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 40
+    },
+    {
+      "name": "PORT AU PRINCE",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 40
+    },
+    {
+      "name": "PORT AU PRINCE",
+      "ingredient": "GRENADINE",
+      "category": "SYRUP",
+      "type": "(GRENADINE)",
+      "page": 40
+    },
+    {
+      "name": "PORT AU PRINCE",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 40
+    },
+    {
+      "name": "PORT AU PRINCE",
+      "ingredient": "CANE COFFEY STILL AGED RUM",
+      "category": "RUM",
+      "type": "(CANE COFFEY STILL AGED)",
+      "page": 40
+    },
+    {
+      "name": "PORT AU PRINCE",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 40
+    },
+    {
+      "name": "TREE DOTS AND A DASH",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 43
+    },
+    {
+      "name": "TREE DOTS AND A DASH",
+      "ingredient": "ORANGE JUICE",
+      "category": "JUICE",
+      "type": "(ORANGE)",
+      "page": 43
+    },
+    {
+      "name": "TREE DOTS AND A DASH",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 43
+    },
+    {
+      "name": "TREE DOTS AND A DASH",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 43
+    },
+    {
+      "name": "TREE DOTS AND A DASH",
+      "ingredient": "ST. ELIZABETH ALLSPICE DRAM",
+      "category": "LIQUEUR",
+      "type": "(ALLSPICE DRAM)",
+      "page": 43
+    },
+    {
+      "name": "TREE DOTS AND A DASH",
+      "ingredient": "CANE AOC MARTINIQUE RHUM AGRICOLE VIEUX",
+      "category": "RUM",
+      "type": "(CANE AOC MARTINIQUE RHUM AGRICOLE VIEUX)",
+      "page": 43
+    },
+    {
+      "name": "TREE DOTS AND A DASH",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 43
+    },
+    {
+      "name": "TREE DOTS AND A DASH",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 43
+    },
+    {
+      "name": "MEXICAN EL DIABLO",
+      "ingredient": "LIME WEDGE",
+      "category": "FRUIT",
+      "type": "(LIME)",
+      "page": 43
+    },
+    {
+      "name": "MEXICAN EL DIABLO",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 43
+    },
+    {
+      "name": "MEXICAN EL DIABLO",
+      "ingredient": "CRÈME DE CASSIS",
+      "category": "LIQUEUR",
+      "type": "(CRÈME DE CASSIS)",
+      "page": 43
+    },
+    {
+      "name": "MEXICAN EL DIABLO",
+      "ingredient": "TEQUILA BLANCO",
+      "category": "TEQUILA",
+      "type": "(BLANCO)",
+      "page": 43
+    },
+    {
+      "name": "MEXICAN EL DIABLO",
+      "ingredient": "GINGER ALE",
+      "category": "SODA",
+      "type": "(GINGER)",
+      "page": 43
+    },
+    {
+      "name": "PORT LIGHT",
+      "ingredient": "EGG WHITE",
+      "category": "EGG",
+      "type": "(WHITE)",
+      "page": 44
+    },
+    {
+      "name": "PORT LIGHT",
+      "ingredient": "BOURBON",
+      "category": "WHISKEY",
+      "type": "(BOURBON)",
+      "page": 44
+    },
+    {
+      "name": "PORT LIGHT",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 44
+    },
+    {
+      "name": "PORT LIGHT",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 44
+    },
+    {
+      "name": "PORT LIGHT",
+      "ingredient": "PASSION FRUIT SYRUP",
+      "category": "SYRUP",
+      "type": "(PASSION FRUIT)",
+      "page": 44
+    },
+    {
+      "name": "DEMERARA DRY FLOAT",
+      "ingredient": "BLACK BLENDED OVERPROOF RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED OVERPROOF)",
+      "page": 44
+    },
+    {
+      "name": "DEMERARA DRY FLOAT",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 44
+    },
+    {
+      "name": "DEMERARA DRY FLOAT",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 44
+    },
+    {
+      "name": "DEMERARA DRY FLOAT",
+      "ingredient": "PASSION FRUIT SYRUP",
+      "category": "SYRUP",
+      "type": "(PASSION FRUIT)",
+      "page": 44
+    },
+    {
+      "name": "DEMERARA DRY FLOAT",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 44
+    },
+    {
+      "name": "DEMERARA DRY FLOAT",
+      "ingredient": "LUXARDO MARASCHINO LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(MARASCHINO)",
+      "page": 44
+    },
+    {
+      "name": "DEMERARA DRY FLOAT",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 44
+    },
+    {
+      "name": "JET PILOT",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 61
+    },
+    {
+      "name": "JET PILOT",
+      "ingredient": "GRAPEFRUIT JUICE",
+      "category": "JUICE",
+      "type": "(GRAPEFRUIT)",
+      "page": 61
+    },
+    {
+      "name": "JET PILOT",
+      "ingredient": "CINNAMON SYRUP",
+      "category": "SYRUP",
+      "type": "(CINNAMON)",
+      "page": 61
+    },
+    {
+      "name": "JET PILOT",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 61
+    },
+    {
+      "name": "JET PILOT",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 61
+    },
+    {
+      "name": "JET PILOT",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 61
+    },
+    {
+      "name": "JET PILOT",
+      "ingredient": "BLACK BLENDED OVERPROOF RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED OVERPROOF)",
+      "page": 61
+    },
+    {
+      "name": "JET PILOT",
+      "ingredient": "HERBSTURA",
+      "category": "BITTERS",
+      "type": "(HERBSTURA)",
+      "page": 61
+    },
+    {
+      "name": "HALEKULANI COCKTAIL",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 61
+    },
+    {
+      "name": "HALEKULANI COCKTAIL",
+      "ingredient": "ORANGE JUICE",
+      "category": "JUICE",
+      "type": "(ORANGE)",
+      "page": 61
+    },
+    {
+      "name": "HALEKULANI COCKTAIL",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 61
+    },
+    {
+      "name": "HALEKULANI COCKTAIL",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 61
+    },
+    {
+      "name": "HALEKULANI COCKTAIL",
+      "ingredient": "GRENADINE",
+      "category": "SYRUP",
+      "type": "(GRENADINE)",
+      "page": 61
+    },
+    {
+      "name": "HALEKULANI COCKTAIL",
+      "ingredient": "BOURBON",
+      "category": "WHISKEY",
+      "type": "(BOURBON)",
+      "page": 61
+    },
+    {
+      "name": "HALEKULANI COCKTAIL",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 61
+    },
+    {
+      "name": "SIDEWINDER'S FANG",
+      "ingredient": "SIDEWINDER'S FANG PEEL",
+      "category": "GARNISH",
+      "type": "(SIDEWINDER'S FANG PEEL)",
+      "page": 62
+    },
+    {
+      "name": "SIDEWINDER'S FANG",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 62
+    },
+    {
+      "name": "SIDEWINDER'S FANG",
+      "ingredient": "ORANGE JUICE",
+      "category": "JUICE",
+      "type": "(ORANGE)",
+      "page": 62
+    },
+    {
+      "name": "SIDEWINDER'S FANG",
+      "ingredient": "PASSION FRUIT SYRUP",
+      "category": "SYRUP",
+      "type": "(PASSION FRUIT)",
+      "page": 62
+    },
+    {
+      "name": "SIDEWINDER'S FANG",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 62
+    },
+    {
+      "name": "SIDEWINDER'S FANG",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 62
+    },
+    {
+      "name": "SIDEWINDER'S FANG",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 62
+    },
+    {
+      "name": "HAWAIIN SUNSET",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 62
+    },
+    {
+      "name": "HAWAIIN SUNSET",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 62
+    },
+    {
+      "name": "HAWAIIN SUNSET",
+      "ingredient": "ORGEAT",
+      "category": "SYRUP",
+      "type": "(ALMOND)",
+      "page": 62
+    },
+    {
+      "name": "HAWAIIN SUNSET",
+      "ingredient": "GRENADINE",
+      "category": "SYRUP",
+      "type": "(GRENADINE)",
+      "page": 62
+    },
+    {
+      "name": "HAWAIIN SUNSET",
+      "ingredient": "VODKA",
+      "category": "VODKA",
+      "type": "(VODKA)",
+      "page": 62
+    },
+    {
+      "name": "CAPTAIN'S GROG",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 65
+    },
+    {
+      "name": "CAPTAIN'S GROG",
+      "ingredient": "GRAPEFRUIT JUICE",
+      "category": "JUICE",
+      "type": "(GRAPEFRUIT)",
+      "page": 65
+    },
+    {
+      "name": "CAPTAIN'S GROG",
+      "ingredient": "MAPLE SYRUP",
+      "category": "SYRUP",
+      "type": "(MAPLE)",
+      "page": 65
+    },
+    {
+      "name": "CAPTAIN'S GROG",
+      "ingredient": "VANILLA EXTRACT",
+      "category": "EXTRACT",
+      "type": "(VANILLA)",
+      "page": 65
+    },
+    {
+      "name": "CAPTAIN'S GROG",
+      "ingredient": "ALMOND EXTRACT",
+      "category": "EXTRACT",
+      "type": "(ALMOND)",
+      "page": 65
+    },
+    {
+      "name": "CAPTAIN'S GROG",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 65
+    },
+    {
+      "name": "CAPTAIN'S GROG",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 65
+    },
+    {
+      "name": "CAPTAIN'S GROG",
+      "ingredient": "PIERRE FERRAND DRY CURACAO",
+      "category": "LIQUEUR",
+      "type": "(ORANGE)",
+      "page": 65
+    },
+    {
+      "name": "CAPTAIN'S GROG",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 65
+    },
+    {
+      "name": "CAPTAIN'S GROG",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 65
+    },
+    {
+      "name": "CAPTAIN'S GROG",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 65
+    },
+    {
+      "name": "SUFFERING BASTARD",
+      "ingredient": "GINGER BEER",
+      "category": "BEER",
+      "type": "(GINGER)",
+      "page": 65
+    },
+    {
+      "name": "SUFFERING BASTARD",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 65
+    },
+    {
+      "name": "SUFFERING BASTARD",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 65
+    },
+    {
+      "name": "SUFFERING BASTARD",
+      "ingredient": "LONDON DRY GIN",
+      "category": "GIN",
+      "type": "(LONDON DRY)",
+      "page": 65
+    },
+    {
+      "name": "SUFFERING BASTARD",
+      "ingredient": "BRANDY",
+      "category": "BRANDY",
+      "type": "(GRAPE)",
+      "page": 65
+    },
+    {
+      "name": "SUFFERING BASTARD",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 65
+    },
+    {
+      "name": "MERCILESS VIRGIN",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 67
+    },
+    {
+      "name": "MERCILESS VIRGIN",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 67
+    },
+    {
+      "name": "MERCILESS VIRGIN",
+      "ingredient": "CHERRY HEERING LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(CHERRY HEERING)",
+      "page": 67
+    },
+    {
+      "name": "MERCILESS VIRGIN",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 67
+    },
+    {
+      "name": "MERCILESS VIRGIN",
+      "ingredient": "PIERRE FERRAND DRY CURACAO",
+      "category": "LIQUEUR",
+      "type": "(ORANGE)",
+      "page": 67
+    },
+    {
+      "name": "MERCILESS VIRGIN",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 67
+    },
+    {
+      "name": "SATURN",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 67
+    },
+    {
+      "name": "SATURN",
+      "ingredient": "PASSION FRUIT SYRUP",
+      "category": "SYRUP",
+      "type": "(PASSION FRUIT)",
+      "page": 67
+    },
+    {
+      "name": "SATURN",
+      "ingredient": "ORGEAT",
+      "category": "SYRUP",
+      "type": "(ALMOND)",
+      "page": 67
+    },
+    {
+      "name": "SATURN",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 67
+    },
+    {
+      "name": "SATURN",
+      "ingredient": "LONDON DRY GIN",
+      "category": "GIN",
+      "type": "(LONDON DRY)",
+      "page": 67
+    },
+    {
+      "name": "TIKI BOWL",
+      "ingredient": "ORANGE JUICE",
+      "category": "JUICE",
+      "type": "(ORANGE)",
+      "page": 68
+    },
+    {
+      "name": "TIKI BOWL",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 68
+    },
+    {
+      "name": "TIKI BOWL",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 68
+    },
+    {
+      "name": "TIKI BOWL",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 68
+    },
+    {
+      "name": "TIKI BOWL",
+      "ingredient": "BLACK BLENDED OVERPROOF RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED OVERPROOF)",
+      "page": 68
+    },
+    {
+      "name": "TIKI BOWL",
+      "ingredient": "COLUMN STILL AGED RUM",
+      "category": "RUM",
+      "type": "(COLUMN STILL AGED)",
+      "page": 68
+    },
+    {
+      "name": "TIKI BOWL",
+      "ingredient": "HERBSTURA",
+      "category": "BITTERS",
+      "type": "(HERBSTURA)",
+      "page": 68
+    },
+    {
+      "name": "HURRICANE",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 68
+    },
+    {
+      "name": "HURRICANE",
+      "ingredient": "PASSION FRUIT SYRUP",
+      "category": "SYRUP",
+      "type": "(PASSION FRUIT)",
+      "page": 68
+    },
+    {
+      "name": "HURRICANE",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 68
+    },
+    {
+      "name": "MUNDO PERDIDO",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 93
+    },
+    {
+      "name": "MUNDO PERDIDO",
+      "ingredient": "CINNAMON SYRUP",
+      "category": "SYRUP",
+      "type": "(CINNAMON)",
+      "page": 93
+    },
+    {
+      "name": "MUNDO PERDIDO",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 93
+    },
+    {
+      "name": "MUNDO PERDIDO",
+      "ingredient": "APPLE BRANDY",
+      "category": "BRANDY",
+      "type": "(APPLE)",
+      "page": 93
+    },
+    {
+      "name": "MUNDO PERDIDO",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 93
+    },
+    {
+      "name": "FORMIDABLE DRAGON",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 93
+    },
+    {
+      "name": "FORMIDABLE DRAGON",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 93
+    },
+    {
+      "name": "FORMIDABLE DRAGON",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 93
+    },
+    {
+      "name": "FORMIDABLE DRAGON",
+      "ingredient": "MOLASSES SYRUP",
+      "category": "SYRUP",
+      "type": "(MOLASSES)",
+      "page": 93
+    },
+    {
+      "name": "FORMIDABLE DRAGON",
+      "ingredient": "AMARO DI ANGOSTURA",
+      "category": "AMARO",
+      "type": "(DI ANGOSTURA)",
+      "page": 93
+    },
+    {
+      "name": "FORMIDABLE DRAGON",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 93
+    },
+    {
+      "name": "FORMIDABLE DRAGON",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 93
+    },
+    {
+      "name": "FORMIDABLE DRAGON",
+      "ingredient": "POT STILL LIGHTLY AGED RUM (OVERPROOF)",
+      "category": "POT STILL LIGHTLY AGED RUM",
+      "type": "(OVERPROOF)",
+      "page": 93
+    },
+    {
+      "name": "FORMIDABLE DRAGON",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 93
+    },
+    {
+      "name": "LEI LANI VOLCANO 2.0",
+      "ingredient": "BUNDABERG GUAVA SODA",
+      "category": "SODA",
+      "type": "(GUAVA)",
+      "page": 94
+    },
+    {
+      "name": "LEI LANI VOLCANO 2.0",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 94
+    },
+    {
+      "name": "LEI LANI VOLCANO 2.0",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 94
+    },
+    {
+      "name": "LEI LANI VOLCANO 2.0",
+      "ingredient": "COCONUT CREAM",
+      "category": "CREAM",
+      "type": "(COCONUT)",
+      "page": 94
+    },
+    {
+      "name": "LEI LANI VOLCANO 2.0",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 94
+    },
+    {
+      "name": "TRADEWINDS",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 94
+    },
+    {
+      "name": "TRADEWINDS",
+      "ingredient": "COCONUT CREAM",
+      "category": "CREAM",
+      "type": "(COCONUT)",
+      "page": 94
+    },
+    {
+      "name": "TRADEWINDS",
+      "ingredient": "APRICOT LIQUEUR (SUCH AS ROTHMAN & WINTER APRICOT LIQUEUR OR GIFFARD ABRICOT DU ROUSSILLON)",
+      "category": "LIQUEUR",
+      "type": "(APRICOT)",
+      "page": 94
+    },
+    {
+      "name": "TRADEWINDS",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 94
+    },
+    {
+      "name": "TRADEWINDS",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 94
+    },
+    {
+      "name": "PEACHTREE PUNCH 2.0",
+      "ingredient": "YELLOW OR WHITE PEACH, PITTED, AND COARSELY CHOPPED INTO CHUNKS (WITH SKIN)",
+      "category": "FRUIT",
+      "type": "(PEACH)",
+      "page": 96
+    },
+    {
+      "name": "PEACHTREE PUNCH 2.0",
+      "ingredient": "ORANGE JUICE",
+      "category": "JUICE",
+      "type": "(ORANGE)",
+      "page": 96
+    },
+    {
+      "name": "PEACHTREE PUNCH 2.0",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 96
+    },
+    {
+      "name": "PEACHTREE PUNCH 2.0",
+      "ingredient": "COCONUT CREAM",
+      "category": "CREAM",
+      "type": "(COCONUT)",
+      "page": 96
+    },
+    {
+      "name": "PEACHTREE PUNCH 2.0",
+      "ingredient": "PEACH LIQUEUR (SUCH AS MATHILDE PEACH OR COMBIER CRÈME DE PÊCHE DE VIGNE)",
+      "category": "LIQUEUR",
+      "type": "(PEACH)",
+      "page": 96
+    },
+    {
+      "name": "PEACHTREE PUNCH 2.0",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 96
+    },
+    {
+      "name": "PEACHTREE PUNCH 2.0",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 96
+    },
+    {
+      "name": "JUNGLE BIRD",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 96
+    },
+    {
+      "name": "JUNGLE BIRD",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 96
+    },
+    {
+      "name": "JUNGLE BIRD",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 96
+    },
+    {
+      "name": "JUNGLE BIRD",
+      "ingredient": "CAMPARI",
+      "category": "AMARO",
+      "type": "(CAMPARI)",
+      "page": 96
+    },
+    {
+      "name": "JUNGLE BIRD",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 96
+    },
+    {
+      "name": "GOLDEN GUN",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 97
+    },
+    {
+      "name": "GOLDEN GUN",
+      "ingredient": "GRAPEFRUIT JUICE",
+      "category": "JUICE",
+      "type": "(GRAPEFRUIT)",
+      "page": 97
+    },
+    {
+      "name": "GOLDEN GUN",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 97
+    },
+    {
+      "name": "GOLDEN GUN",
+      "ingredient": "APRICOT LIQUEUR (SUCH AS ROTHMAN & WINTER APRICOT LIQUEUR OR GIFFARD ABRICOT DU ROUSSILLON)",
+      "category": "LIQUEUR",
+      "type": "(APRICOT)",
+      "page": 97
+    },
+    {
+      "name": "GOLDEN GUN",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 97
+    },
+    {
+      "name": "GOLDEN GUN",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 97
+    },
+    {
+      "name": "GOLDEN GUN",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 97
+    },
+    {
+      "name": "HINKY DINKS FIZZY",
+      "ingredient": "SPARKLING WINE",
+      "category": "WINE",
+      "type": "(SPARKLING)",
+      "page": 97
+    },
+    {
+      "name": "HINKY DINKS FIZZY",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 97
+    },
+    {
+      "name": "HINKY DINKS FIZZY",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 97
+    },
+    {
+      "name": "HINKY DINKS FIZZY",
+      "ingredient": "PASSION FRUIT SYRUP",
+      "category": "SYRUP",
+      "type": "(PASSION FRUIT)",
+      "page": 97
+    },
+    {
+      "name": "HINKY DINKS FIZZY",
+      "ingredient": "APRICOT LIQUEUR (SUCH AS ROTHMAN & WINTER APRICOT LIQUEUR OR GIFFARD ABRICOT DU ROUSSILLON)",
+      "category": "LIQUEUR",
+      "type": "(APRICOT)",
+      "page": 97
+    },
+    {
+      "name": "HINKY DINKS FIZZY",
+      "ingredient": "LONDON DRY GIN",
+      "category": "GIN",
+      "type": "(LONDON DRY)",
+      "page": 97
+    },
+    {
+      "name": "HINKY DINKS FIZZY",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 97
+    },
+    {
+      "name": "PAMPANITO",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 115
+    },
+    {
+      "name": "PAMPANITO",
+      "ingredient": "MOLASSES SYRUP",
+      "category": "SYRUP",
+      "type": "(MOLASSES)",
+      "page": 115
+    },
+    {
+      "name": "PAMPANITO",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 115
+    },
+    {
+      "name": "PAMPANITO",
+      "ingredient": "ST. ELIZABETH ALLSPICE DRAM",
+      "category": "LIQUEUR",
+      "type": "(ALLSPICE DRAM)",
+      "page": 115
+    },
+    {
+      "name": "PAMPANITO",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 115
+    },
+    {
+      "name": "PAMPANITO",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 115
+    },
+    {
+      "name": "MAX'S MISTAKE",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 115
+    },
+    {
+      "name": "MAX'S MISTAKE",
+      "ingredient": "PASSION FRUIT SYRUP",
+      "category": "SYRUP",
+      "type": "(PASSION FRUIT)",
+      "page": 115
+    },
+    {
+      "name": "MAX'S MISTAKE",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 115
+    },
+    {
+      "name": "MAX'S MISTAKE",
+      "ingredient": "LONDON DRY GIN",
+      "category": "GIN",
+      "type": "(LONDON DRY)",
+      "page": 115
+    },
+    {
+      "name": "MAX'S MISTAKE",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 115
+    },
+    {
+      "name": "MAX'S MISTAKE",
+      "ingredient": "FENTIMANS VICTORIAN LEMONADE (OR ANY QUALITY DRY SPARKLING LEMONADE)",
+      "category": "SPARKLING LEMONADE",
+      "type": "(SPARKLING LEMONADE)",
+      "page": 115
+    },
+    {
+      "name": "LA GUILDIVE",
+      "ingredient": "GINGER BEER",
+      "category": "BEER",
+      "type": "(GINGER)",
+      "page": 116
+    },
+    {
+      "name": "LA GUILDIVE",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 116
+    },
+    {
+      "name": "LA GUILDIVE",
+      "ingredient": "LICOR 43",
+      "category": "LIQUEUR",
+      "type": "(LICOR 43)",
+      "page": 116
+    },
+    {
+      "name": "LA GUILDIVE",
+      "ingredient": "PEACH LIQUEUR (SUCH AS MATHILDE PEACH OR COMBIER CRÈME DE PÊCHE DE VIGNE)",
+      "category": "LIQUEUR",
+      "type": "(PEACH)",
+      "page": 116
+    },
+    {
+      "name": "LA GUILDIVE",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 116
+    },
+    {
+      "name": "LA GUILDIVE",
+      "ingredient": "GRATED CINNAMON",
+      "category": "SPICE",
+      "type": "(CINNAMON)",
+      "page": 116
+    },
+    {
+      "name": "THE TWENTY SEVENTY SWIZZLE",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 116
+    },
+    {
+      "name": "THE TWENTY SEVENTY SWIZZLE",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 116
+    },
+    {
+      "name": "THE TWENTY SEVENTY SWIZZLE",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 116
+    },
+    {
+      "name": "THE TWENTY SEVENTY SWIZZLE",
+      "ingredient": "ST. ELIZABETH ALLSPICE DRAM",
+      "category": "LIQUEUR",
+      "type": "(ALLSPICE DRAM)",
+      "page": 116
+    },
+    {
+      "name": "THE TWENTY SEVENTY SWIZZLE",
+      "ingredient": "COLUMN STILL AGED RUM",
+      "category": "RUM",
+      "type": "(COLUMN STILL AGED)",
+      "page": 116
+    },
+    {
+      "name": "THE TWENTY SEVENTY SWIZZLE",
+      "ingredient": "BLACK BLENDED OVERPROOF RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED OVERPROOF)",
+      "page": 116
+    },
+    {
+      "name": "THE TWENTY SEVENTY SWIZZLE",
+      "ingredient": "HERBSTURA",
+      "category": "BITTERS",
+      "type": "(HERBSTURA)",
+      "page": 116
+    },
+    {
+      "name": "THE TWENTY SEVENTY SWIZZLE",
+      "ingredient": "GRATED NUTMEG",
+      "category": "SPICE",
+      "type": "(NUTMEG)",
+      "page": 116
+    },
+    {
+      "name": "SHUDDERS IN A WHISPER",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 118
+    },
+    {
+      "name": "SHUDDERS IN A WHISPER",
+      "ingredient": "PASSION FRUIT SYRUP",
+      "category": "SYRUP",
+      "type": "(PASSION FRUIT)",
+      "page": 118
+    },
+    {
+      "name": "SHUDDERS IN A WHISPER",
+      "ingredient": "PEAR LIQUEUR (SUCH AS MATHILDE POIRE)",
+      "category": "LIQUEUR",
+      "type": "(PEAR)",
+      "page": 118
+    },
+    {
+      "name": "SHUDDERS IN A WHISPER",
+      "ingredient": "DRAMBUIE LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(DRAMBUIE)",
+      "page": 118
+    },
+    {
+      "name": "SHUDDERS IN A WHISPER",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 118
+    },
+    {
+      "name": "SHUDDERS IN A WHISPER",
+      "ingredient": "COLUMN STILL AGED RUM",
+      "category": "RUM",
+      "type": "(COLUMN STILL AGED)",
+      "page": 118
+    },
+    {
+      "name": "SHUDDERS IN A WHISPER",
+      "ingredient": "PEYCHAUD'S BITTERS",
+      "category": "BITTERS",
+      "type": "(CREOLE)",
+      "page": 118
+    },
+    {
+      "name": "SHUDDERS IN A WHISPER",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 118
+    },
+    {
+      "name": "CUEVAS",
+      "ingredient": "CINNAMON SYRUP",
+      "category": "SYRUP",
+      "type": "(CINNAMON)",
+      "page": 118
+    },
+    {
+      "name": "CUEVAS",
+      "ingredient": "PUNT E MES",
+      "category": "VERMOUTH",
+      "type": "(SWEET)",
+      "page": 118
+    },
+    {
+      "name": "CUEVAS",
+      "ingredient": "TAWNY PORT",
+      "category": "PORT",
+      "type": "(TAWNY)",
+      "page": 118
+    },
+    {
+      "name": "CUEVAS",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 118
+    },
+    {
+      "name": "CUEVAS",
+      "ingredient": "BITTERMENS 'ELEMAKULE TIKI BITTERS",
+      "category": "BITTERS",
+      "type": "(TIKI)",
+      "page": 118
+    },
+    {
+      "name": "NORWEGIAN PARALYSIS",
+      "ingredient": "ORANGE JUICE",
+      "category": "JUICE",
+      "type": "(ORANGE)",
+      "page": 119
+    },
+    {
+      "name": "NORWEGIAN PARALYSIS",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 119
+    },
+    {
+      "name": "NORWEGIAN PARALYSIS",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 119
+    },
+    {
+      "name": "NORWEGIAN PARALYSIS",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 119
+    },
+    {
+      "name": "NORWEGIAN PARALYSIS",
+      "ingredient": "ORGEAT",
+      "category": "SYRUP",
+      "type": "(ALMOND)",
+      "page": 119
+    },
+    {
+      "name": "NORWEGIAN PARALYSIS",
+      "ingredient": "AQUAVIT",
+      "category": "AQUAVIT",
+      "type": "(AQUAVIT)",
+      "page": 119
+    },
+    {
+      "name": "JUAN HO ROYALE",
+      "ingredient": "CHAMPAGNE OR SPARKLING WINE",
+      "category": "WINE",
+      "type": "(SPARKLING)",
+      "page": 119
+    },
+    {
+      "name": "JUAN HO ROYALE",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 119
+    },
+    {
+      "name": "JUAN HO ROYALE",
+      "ingredient": "ORGEAT",
+      "category": "SYRUP",
+      "type": "(ALMOND)",
+      "page": 119
+    },
+    {
+      "name": "JUAN HO ROYALE",
+      "ingredient": "BLUE CURACAO",
+      "category": "LIQUEUR",
+      "type": "(ORANGE BLUE)",
+      "page": 119
+    },
+    {
+      "name": "JUAN HO ROYALE",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 119
+    },
+    {
+      "name": "JUAN HO ROYALE",
+      "ingredient": "TEQUILA BLANCO",
+      "category": "TEQUILA",
+      "type": "(BLANCO)",
+      "page": 119
+    },
+    {
+      "name": "CHARTREUSE SWIZZLE",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 120
+    },
+    {
+      "name": "CHARTREUSE SWIZZLE",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 120
+    },
+    {
+      "name": "CHARTREUSE SWIZZLE",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 120
+    },
+    {
+      "name": "CHARTREUSE SWIZZLE",
+      "ingredient": "GREEN CHARTREUSE",
+      "category": "LIQUEUR",
+      "type": "(CHARTREUSE GREEN)",
+      "page": 120
+    },
+    {
+      "name": "ROSELITA",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 120
+    },
+    {
+      "name": "ROSELITA",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 120
+    },
+    {
+      "name": "ROSELITA",
+      "ingredient": "ORGEAT",
+      "category": "SYRUP",
+      "type": "(ALMOND)",
+      "page": 120
+    },
+    {
+      "name": "ROSELITA",
+      "ingredient": "HIBISCUS LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(HIBISCUS)",
+      "page": 120
+    },
+    {
+      "name": "ROSELITA",
+      "ingredient": "PEAR LIQUEUR (SUCH AS MATHILDE POIRE)",
+      "category": "LIQUEUR",
+      "type": "(PEAR)",
+      "page": 120
+    },
+    {
+      "name": "ROSELITA",
+      "ingredient": "COLUMN STILL AGED RUM",
+      "category": "RUM",
+      "type": "(COLUMN STILL AGED)",
+      "page": 120
+    },
+    {
+      "name": "ROSELITA",
+      "ingredient": "PEYCHAUD'S BITTERS",
+      "category": "BITTERS",
+      "type": "(CREOLE)",
+      "page": 120
+    },
+    {
+      "name": "CENTER OF THE GALAXY",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 121
+    },
+    {
+      "name": "CENTER OF THE GALAXY",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 121
+    },
+    {
+      "name": "CENTER OF THE GALAXY",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 121
+    },
+    {
+      "name": "CENTER OF THE GALAXY",
+      "ingredient": "ST. GEORGE RASPBERRY LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(RASPBERRY)",
+      "page": 121
+    },
+    {
+      "name": "CENTER OF THE GALAXY",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 121
+    },
+    {
+      "name": "CENTER OF THE GALAXY",
+      "ingredient": "GROUND CINNAMON",
+      "category": "SPICE",
+      "type": "(CINNAMON)",
+      "page": 121
+    },
+    {
+      "name": "CALLALOO COOLER",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 121
+    },
+    {
+      "name": "CALLALOO COOLER",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 121
+    },
+    {
+      "name": "CALLALOO COOLER",
+      "ingredient": "CINNAMON SYRUP",
+      "category": "SYRUP",
+      "type": "(CINNAMON)",
+      "page": 121
+    },
+    {
+      "name": "CALLALOO COOLER",
+      "ingredient": "CHERRY HEERING LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(CHERRY HEERING)",
+      "page": 121
+    },
+    {
+      "name": "CALLALOO COOLER",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 121
+    },
+    {
+      "name": "CALLALOO COOLER",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 121
+    },
+    {
+      "name": "TOP NOTCH VOLCANO",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 134
+    },
+    {
+      "name": "TOP NOTCH VOLCANO",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 134
+    },
+    {
+      "name": "TOP NOTCH VOLCANO",
+      "ingredient": "PASSION FRUIT PUREE",
+      "category": "PUREE",
+      "type": "(PASSION FRUIT)",
+      "page": 134
+    },
+    {
+      "name": "TOP NOTCH VOLCANO",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 134
+    },
+    {
+      "name": "TOP NOTCH VOLCANO",
+      "ingredient": "LUXARDO MARASCHINO LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(MARASCHINO)",
+      "page": 134
+    },
+    {
+      "name": "TOP NOTCH VOLCANO",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 134
+    },
+    {
+      "name": "TOP NOTCH VOLCANO",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 134
+    },
+    {
+      "name": "THE NAKED APE",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 134
+    },
+    {
+      "name": "THE NAKED APE",
+      "ingredient": "CINNAMON SYRUP",
+      "category": "SYRUP",
+      "type": "(CINNAMON)",
+      "page": 134
+    },
+    {
+      "name": "THE NAKED APE",
+      "ingredient": "GIFFARD BANANE DU BRÉSIL BANANA LIQUEUR",
+      "category": "BANANA LIQUEUR",
+      "type": "(BANANA LIQUEUR)",
+      "page": 134
+    },
+    {
+      "name": "THE NAKED APE",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 134
+    },
+    {
+      "name": "THE NAKED APE",
+      "ingredient": "POT STILL LIGHTLY AGED RUM (OVERPROOF)",
+      "category": "POT STILL LIGHTLY AGED RUM",
+      "type": "(OVERPROOF)",
+      "page": 134
+    },
+    {
+      "name": "THE NAKED APE",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 134
+    },
+    {
+      "name": "SWIZZLE FRANÇAIS",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 136
+    },
+    {
+      "name": "SWIZZLE FRANÇAIS",
+      "ingredient": "MARTINIQUE SUGARCANE SYRUP",
+      "category": "SYRUP",
+      "type": "(MARTINIQUE SUGARCANE)",
+      "page": 136
+    },
+    {
+      "name": "SWIZZLE FRANÇAIS",
+      "ingredient": "ST. ELIZABETH ALLSPICE DRAM",
+      "category": "LIQUEUR",
+      "type": "(ALLSPICE DRAM)",
+      "page": 136
+    },
+    {
+      "name": "SWIZZLE FRANÇAIS",
+      "ingredient": "CANE AOC MARTINIQUE RHUM AGRICOLE VIEUX",
+      "category": "RUM",
+      "type": "(CANE AOC MARTINIQUE RHUM AGRICOLE VIEUX)",
+      "page": 136
+    },
+    {
+      "name": "SWIZZLE FRANÇAIS",
+      "ingredient": "GROUND CINNAMON",
+      "category": "SPICE",
+      "type": "(NUTMEG)",
+      "page": 136
+    },
+    {
+      "name": "SPARKLING MAI TAI",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 136
+    },
+    {
+      "name": "SPARKLING MAI TAI",
+      "ingredient": "ORGEAT",
+      "category": "SYRUP",
+      "type": "(ALMOND)",
+      "page": 136
+    },
+    {
+      "name": "SPARKLING MAI TAI",
+      "ingredient": "PIERRE FERRAND DRY CURACAO",
+      "category": "LIQUEUR",
+      "type": "(ORANGE)",
+      "page": 136
+    },
+    {
+      "name": "SPARKLING MAI TAI",
+      "ingredient": "BLACK BLENDED OVERPROOF RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED OVERPROOF)",
+      "page": 136
+    },
+    {
+      "name": "SPARKLING MAI TAI",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 136
+    },
+    {
+      "name": "SPARKLING MAI TAI",
+      "ingredient": "SPARKLING WINE",
+      "category": "WINE",
+      "type": "(SPARKLING)",
+      "page": 136
+    },
+    {
+      "name": "THE ERNESTO",
+      "ingredient": "TING GRAPEFRUIT SODA",
+      "category": "SODA",
+      "type": "(GRAPEFRUIT)",
+      "page": 137
+    },
+    {
+      "name": "THE ERNESTO",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 137
+    },
+    {
+      "name": "THE ERNESTO",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 137
+    },
+    {
+      "name": "THE ERNESTO",
+      "ingredient": "APRICOT LIQUEUR (SUCH AS ROTHMAN & WINTER APRICOT LIQUEUR OR GIFFARD ABRICOT DU ROUSSILLON)",
+      "category": "LIQUEUR",
+      "type": "(APRICOT)",
+      "page": 137
+    },
+    {
+      "name": "THE ERNESTO",
+      "ingredient": "TEQUILA BLANCO",
+      "category": "TEQUILA",
+      "type": "(BLANCO)",
+      "page": 137
+    },
+    {
+      "name": "THE ERNESTO",
+      "ingredient": "HERBSTURA",
+      "category": "BITTERS",
+      "type": "(HERBSTURA)",
+      "page": 137
+    },
+    {
+      "name": "THE SEXPERT",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 137
+    },
+    {
+      "name": "THE SEXPERT",
+      "ingredient": "PASSION FRUIT SYRUP",
+      "category": "SYRUP",
+      "type": "(PASSION FRUIT)",
+      "page": 137
+    },
+    {
+      "name": "THE SEXPERT",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 137
+    },
+    {
+      "name": "THE SEXPERT",
+      "ingredient": "PERUVIAN PISCO",
+      "category": "BRANDY",
+      "type": "(PISCO)",
+      "page": 137
+    },
+    {
+      "name": "THE SEXPERT",
+      "ingredient": "GIN",
+      "category": "GIN",
+      "type": "(GIN)",
+      "page": 137
+    },
+    {
+      "name": "THE SEXPERT",
+      "ingredient": "BITTERMENS BURLESQUE BITTERS",
+      "category": "BITTERS",
+      "type": "(BITTERMENS BURLESQUE)",
+      "page": 137
+    },
+    {
+      "name": "SMUGGLER'S RUM BARREL",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 139
+    },
+    {
+      "name": "SMUGGLER'S RUM BARREL",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 139
+    },
+    {
+      "name": "SMUGGLER'S RUM BARREL",
+      "ingredient": "SECRET",
+      "category": "SECRET",
+      "type": "(SECRET)",
+      "page": 139
+    },
+    {
+      "name": "SMUGGLER'S RUM BARREL",
+      "ingredient": "SECRET",
+      "category": "SECRET",
+      "type": "(SECRET)",
+      "page": 139
+    },
+    {
+      "name": "SMUGGLER'S RUM BARREL",
+      "ingredient": "BLACK BLENDED OVERPROOF RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED OVERPROOF)",
+      "page": 139
+    },
+    {
+      "name": "SMUGGLER'S RUM BARREL",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 139
+    },
+    {
+      "name": "HANA REVIVER",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 139
+    },
+    {
+      "name": "HANA REVIVER",
+      "ingredient": "PASSION FRUIT SYRUP",
+      "category": "SYRUP",
+      "type": "(PASSION FRUIT)",
+      "page": 139
+    },
+    {
+      "name": "HANA REVIVER",
+      "ingredient": "LI HING MUI POWDER",
+      "category": "LI HING MUI POWDER",
+      "type": "(LI HING MUI POWDER)",
+      "page": 139
+    },
+    {
+      "name": "HANA REVIVER",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 139
+    },
+    {
+      "name": "HANA REVIVER",
+      "ingredient": "MARASCHINO LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(MARASCHINO)",
+      "page": 139
+    },
+    {
+      "name": "HANA REVIVER",
+      "ingredient": "POT STILL UNAGED RUM",
+      "category": "RUM",
+      "type": "(POT STILL UNAGED)",
+      "page": 139
+    },
+    {
+      "name": "KAITEUR SWIZZLE",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 140
+    },
+    {
+      "name": "KAITEUR SWIZZLE",
+      "ingredient": "MAPLE SYRUP",
+      "category": "SYRUP",
+      "type": "(MAPLE)",
+      "page": 140
+    },
+    {
+      "name": "KAITEUR SWIZZLE",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 140
+    },
+    {
+      "name": "KAITEUR SWIZZLE",
+      "ingredient": "BLENDED AGED RUM (GUYANA)",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 140
+    },
+    {
+      "name": "KAITEUR SWIZZLE",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 140
+    },
+    {
+      "name": "THE EXPEDITION",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 140
+    },
+    {
+      "name": "THE EXPEDITION",
+      "ingredient": "CINNAMON SYRUP",
+      "category": "SYRUP",
+      "type": "(CINNAMON)",
+      "page": 140
+    },
+    {
+      "name": "THE EXPEDITION",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 140
+    },
+    {
+      "name": "THE EXPEDITION",
+      "ingredient": "VANILLLA SYRUP",
+      "category": "SYRUP",
+      "type": "(VANILLA)",
+      "page": 140
+    },
+    {
+      "name": "THE EXPEDITION",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 140
+    },
+    {
+      "name": "THE EXPEDITION",
+      "ingredient": "BITTERMENS NEW ORLEANS COFFEE LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(COFFEE)",
+      "page": 140
+    },
+    {
+      "name": "THE EXPEDITION",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 140
+    },
+    {
+      "name": "THE EXPEDITION",
+      "ingredient": "BOURBON",
+      "category": "WHISKEY",
+      "type": "(BOURBON)",
+      "page": 140
+    },
+    {
+      "name": "THE UNDEAD GENTLEMAN",
+      "ingredient": "ABSINTHE BLANC",
+      "category": "ABSINTHE",
+      "type": "(BLANC)",
+      "page": 142
+    },
+    {
+      "name": "THE UNDEAD GENTLEMAN",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 142
+    },
+    {
+      "name": "THE UNDEAD GENTLEMAN",
+      "ingredient": "GRAPEFRUIT JUICE (WHITE OR PINK)",
+      "category": "JUICE",
+      "type": "(GRAPEFRUIT) ",
+      "page": 142
+    },
+    {
+      "name": "THE UNDEAD GENTLEMAN",
+      "ingredient": "CINNAMON SYRUP",
+      "category": "SYRUP",
+      "type": "(CINNAMON)",
+      "page": 142
+    },
+    {
+      "name": "THE UNDEAD GENTLEMAN",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 142
+    },
+    {
+      "name": "THE UNDEAD GENTLEMAN",
+      "ingredient": "BLACK BLENDED OVERPROOF RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED OVERPROOF)",
+      "page": 142
+    },
+    {
+      "name": "THE UNDEAD GENTLEMAN",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 142
+    },
+    {
+      "name": "THE UNDEAD GENTLEMAN",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 142
+    },
+    {
+      "name": "THE DEAD RECKONING",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 142
+    },
+    {
+      "name": "THE DEAD RECKONING",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 142
+    },
+    {
+      "name": "THE DEAD RECKONING",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 142
+    },
+    {
+      "name": "THE DEAD RECKONING",
+      "ingredient": "MAPLE SYRUP",
+      "category": "SYRUP",
+      "type": "(MAPLE)",
+      "page": 142
+    },
+    {
+      "name": "THE DEAD RECKONING",
+      "ingredient": "VANILLA BRANDY",
+      "category": "BRANDY",
+      "type": "(VANILLA)",
+      "page": 142
+    },
+    {
+      "name": "THE DEAD RECKONING",
+      "ingredient": "TAWNY PORT",
+      "category": "PORT",
+      "type": "(TAWNY)",
+      "page": 142
+    },
+    {
+      "name": "THE DEAD RECKONING",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 142
+    },
+    {
+      "name": "THE DEAD RECKONING",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 142
+    },
+    {
+      "name": "FALINUM",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 144
+    },
+    {
+      "name": "FALINUM",
+      "ingredient": "COCONUT CREAM",
+      "category": "CREAM",
+      "type": "(COCONUT)",
+      "page": 144
+    },
+    {
+      "name": "FALINUM",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 144
+    },
+    {
+      "name": "FALINUM",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 144
+    },
+    {
+      "name": "FALINUM",
+      "ingredient": "COLUMN STILL AGED RUM",
+      "category": "RUM",
+      "type": "(COLUMN STILL AGED)",
+      "page": 144
+    },
+    {
+      "name": "FALINUM",
+      "ingredient": "ORANGE BITTERS",
+      "category": "BITTERS",
+      "type": "(ORANGE)",
+      "page": 144
+    },
+    {
+      "name": "HUMUHUMUNUKUNUKUAPUA'A",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 144
+    },
+    {
+      "name": "HUMUHUMUNUKUNUKUAPUA'A",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 144
+    },
+    {
+      "name": "HUMUHUMUNUKUNUKUAPUA'A",
+      "ingredient": "ORGEAT",
+      "category": "SYRUP",
+      "type": "(ALMOND)",
+      "page": 144
+    },
+    {
+      "name": "HUMUHUMUNUKUNUKUAPUA'A",
+      "ingredient": "GIN",
+      "category": "GIN",
+      "type": "(GIN)",
+      "page": 144
+    },
+    {
+      "name": "HUMUHUMUNUKUNUKUAPUA'A",
+      "ingredient": "PEYCHAUD'S BITTERS",
+      "category": "BITTERS",
+      "type": "(CREOLE)",
+      "page": 144
+    },
+    {
+      "name": "LAUWILIWILINUKUNUKU'OI'OI",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 144
+    },
+    {
+      "name": "LAUWILIWILINUKUNUKU'OI'OI",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 144
+    },
+    {
+      "name": "LAUWILIWILINUKUNUKU'OI'OI",
+      "ingredient": "ORGEAT",
+      "category": "SYRUP",
+      "type": "(ALMOND)",
+      "page": 144
+    },
+    {
+      "name": "LAUWILIWILINUKUNUKU'OI'OI",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 144
+    },
+    {
+      "name": "LAUWILIWILINUKUNUKU'OI'OI",
+      "ingredient": "PEYCHAUD'S BITTERS",
+      "category": "BITTERS",
+      "type": "(CREOLE)",
+      "page": 144
+    },
+    {
+      "name": "FINKELGROG",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 145
+    },
+    {
+      "name": "FINKELGROG",
+      "ingredient": "GRAPEFRUIT JUICE",
+      "category": "JUICE",
+      "type": "(GRAPEFRUIT)",
+      "page": 145
+    },
+    {
+      "name": "FINKELGROG",
+      "ingredient": "ORGEAT",
+      "category": "SYRUP",
+      "type": "(ALMOND)",
+      "page": 145
+    },
+    {
+      "name": "FINKELGROG",
+      "ingredient": "NAPA WINE SYRUP",
+      "category": "SYRUP",
+      "type": "(NAPA WINE)",
+      "page": 145
+    },
+    {
+      "name": "FINKELGROG",
+      "ingredient": "LICOR 43",
+      "category": "LIQUEUR",
+      "type": "(LICOR 43)",
+      "page": 145
+    },
+    {
+      "name": "FINKELGROG",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 145
+    },
+    {
+      "name": "FINKELGROG",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 145
+    },
+    {
+      "name": "FINKELGROG",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 145
+    },
+    {
+      "name": "FINKELGROG",
+      "ingredient": "GROUND CINNAMON",
+      "category": "SPICE",
+      "type": "(CINNAMON)",
+      "page": 145
+    },
+    {
+      "name": "FOR PETE'S SAKE",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 145
+    },
+    {
+      "name": "FOR PETE'S SAKE",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 145
+    },
+    {
+      "name": "FOR PETE'S SAKE",
+      "ingredient": "HIBISCUS LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(HIBISCUS)",
+      "page": 145
+    },
+    {
+      "name": "FOR PETE'S SAKE",
+      "ingredient": "CHERRY HEERING LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(CHERRY HEERING)",
+      "page": 145
+    },
+    {
+      "name": "FOR PETE'S SAKE",
+      "ingredient": "PERUVIAN PISCO",
+      "category": "BRANDY",
+      "type": "(PISCO)",
+      "page": 145
+    },
+    {
+      "name": "FOR PETE'S SAKE",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 145
+    },
+    {
+      "name": "ARRACK PUNCH",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 163
+    },
+    {
+      "name": "ARRACK PUNCH",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 163
+    },
+    {
+      "name": "ARRACK PUNCH",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 163
+    },
+    {
+      "name": "ARRACK PUNCH",
+      "ingredient": "BATAVIA ARRACK",
+      "category": "BATAVIA ARRACK",
+      "type": "(BATAVIA ARRACK)",
+      "page": 163
+    },
+    {
+      "name": "ARRACK PUNCH",
+      "ingredient": "POT STILL LIGHTLY AGED RUM (OVERPROOF)",
+      "category": "POT STILL LIGHTLY AGED RUM",
+      "type": "(OVERPROOF)",
+      "page": 163
+    },
+    {
+      "name": "ARRACK PUNCH",
+      "ingredient": "CABONATED CHAI TEA",
+      "category": "CABONATED CHAI TEA",
+      "type": "(CABONATED CHAI TEA)",
+      "page": 163
+    },
+    {
+      "name": "EL DRAQUE",
+      "ingredient": "MINT LEAVES",
+      "category": "LEAVES",
+      "type": "(MINT)",
+      "page": 163
+    },
+    {
+      "name": "EL DRAQUE",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 163
+    },
+    {
+      "name": "EL DRAQUE",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 163
+    },
+    {
+      "name": "EL DRAQUE",
+      "ingredient": "POT STILL AGED CACHAÇA",
+      "category": "CACHAÇA",
+      "type": "(CACHAÇA)",
+      "page": 163
+    },
+    {
+      "name": "GROG",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 165
+    },
+    {
+      "name": "GROG",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 165
+    },
+    {
+      "name": "GROG",
+      "ingredient": "RUM",
+      "category": "RUM",
+      "type": "(RUM)",
+      "page": 165
+    },
+    {
+      "name": "RUM FLIP",
+      "ingredient": "MEDIUM EGG",
+      "category": "EGG MEDIUM",
+      "type": "(EGG MEDIUM)",
+      "page": 165
+    },
+    {
+      "name": "RUM FLIP",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 165
+    },
+    {
+      "name": "RUM FLIP",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 165
+    },
+    {
+      "name": "BOMBO",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 167
+    },
+    {
+      "name": "BOMBO",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 167
+    },
+    {
+      "name": "CALIBOGUS",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 167
+    },
+    {
+      "name": "CALIBOGUS",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 167
+    },
+    {
+      "name": "CALIBOGUS",
+      "ingredient": "MOLASSES SYRUP",
+      "category": "SYRUP",
+      "type": "(MOLASSES)",
+      "page": 167
+    },
+    {
+      "name": "CALIBOGUS",
+      "ingredient": "SPRUCE BEER SODA EXTRACT",
+      "category": "EXTRACT",
+      "type": "(SPRUCE BEER SODA)",
+      "page": 167
+    },
+    {
+      "name": "CALIBOGUS",
+      "ingredient": "ZIRBENZ STONE PINE LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(PINE)",
+      "page": 167
+    },
+    {
+      "name": "CALIBOGUS",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 167
+    },
+    {
+      "name": "MARY PICKFORD",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 168
+    },
+    {
+      "name": "MARY PICKFORD",
+      "ingredient": "GRENADINE",
+      "category": "SYRUP",
+      "type": "(GRENADINE)",
+      "page": 168
+    },
+    {
+      "name": "MARY PICKFORD",
+      "ingredient": "LUXARDO MARASCHINO LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(MARASCHINO)",
+      "page": 168
+    },
+    {
+      "name": "MARY PICKFORD",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 168
+    },
+    {
+      "name": "DAIQUIRI NO. 1",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 168
+    },
+    {
+      "name": "DAIQUIRI NO. 1",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 168
+    },
+    {
+      "name": "DAIQUIRI NO. 1",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 168
+    },
+    {
+      "name": "HOTEL NACIONAL SPECIAL",
+      "ingredient": "(1-INCH-SQUARE) PINEAPPLE CHUNKS",
+      "category": "FRUIT",
+      "type": "(PINEAPPLE)",
+      "page": 171
+    },
+    {
+      "name": "HOTEL NACIONAL SPECIAL",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 171
+    },
+    {
+      "name": "HOTEL NACIONAL SPECIAL",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 171
+    },
+    {
+      "name": "HOTEL NACIONAL SPECIAL",
+      "ingredient": "APRICOT LIQUEUR (SUCH AS ROTHMAN & WINTER APRICOT LIQUEUR OR GIFFARD ABRICOT DU ROUSSILLON)",
+      "category": "LIQUEUR",
+      "type": "(APRICOT)",
+      "page": 171
+    },
+    {
+      "name": "HOTEL NACIONAL SPECIAL",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 171
+    },
+    {
+      "name": "DAISY DE SANTIAGO",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 171
+    },
+    {
+      "name": "DAISY DE SANTIAGO",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 171
+    },
+    {
+      "name": "DAISY DE SANTIAGO",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 171
+    },
+    {
+      "name": "DAISY DE SANTIAGO",
+      "ingredient": "YELLOW CHARTREUSE",
+      "category": "LIQUEUR",
+      "type": "(YELLOW CHARTREUSE)",
+      "page": 171
+    },
+    {
+      "name": "DAISY DE SANTIAGO",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 171
+    },
+    {
+      "name": "EL PRESIDENTE",
+      "ingredient": "GRENADINE",
+      "category": "SYRUP",
+      "type": "(GRENADINE)",
+      "page": 172
+    },
+    {
+      "name": "EL PRESIDENTE",
+      "ingredient": "DRY VERMOUTH",
+      "category": "VERMOUTH",
+      "type": "(DRY)",
+      "page": 172
+    },
+    {
+      "name": "EL PRESIDENTE",
+      "ingredient": "PIERRE FERRAND DRY CURACAO",
+      "category": "LIQUEUR",
+      "type": "(ORANGE)",
+      "page": 172
+    },
+    {
+      "name": "EL PRESIDENTE",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 172
+    },
+    {
+      "name": "TWELVE MILE LIMIT",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 172
+    },
+    {
+      "name": "TWELVE MILE LIMIT",
+      "ingredient": "GRENADINE",
+      "category": "SYRUP",
+      "type": "(GRENADINE)",
+      "page": 172
+    },
+    {
+      "name": "TWELVE MILE LIMIT",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 172
+    },
+    {
+      "name": "TWELVE MILE LIMIT",
+      "ingredient": "RYE",
+      "category": "WHISKEY",
+      "type": "(RYE)",
+      "page": 172
+    },
+    {
+      "name": "TWELVE MILE LIMIT",
+      "ingredient": "BRANDY",
+      "category": "BRANDY",
+      "type": "(GRAPE)",
+      "page": 172
+    },
+    {
+      "name": "PARISIAN BLONDE",
+      "ingredient": "PIERRE FERRAND DRY CURACAO",
+      "category": "LIQUEUR",
+      "type": "(ORANGE)",
+      "page": 174
+    },
+    {
+      "name": "PARISIAN BLONDE",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 174
+    },
+    {
+      "name": "PARISIAN BLONDE",
+      "ingredient": "SWEET CREAM",
+      "category": "CREAM",
+      "type": "(SWEET)",
+      "page": 174
+    },
+    {
+      "name": "CORA MIDDLETON",
+      "ingredient": "EGG WHITE",
+      "category": "EGG",
+      "type": "(WHITE)",
+      "page": 174
+    },
+    {
+      "name": "CORA MIDDLETON",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 174
+    },
+    {
+      "name": "CORA MIDDLETON",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 174
+    },
+    {
+      "name": "CORA MIDDLETON",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 174
+    },
+    {
+      "name": "CORA MIDDLETON",
+      "ingredient": "SMALL HAND FOODS RASPBERRY GUM SYRUP",
+      "category": "SYRUP",
+      "type": "(RASPBERRY GUM)",
+      "page": 174
+    },
+    {
+      "name": "MILLIONAIRE COCKTAIL NO. 1",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 175
+    },
+    {
+      "name": "MILLIONAIRE COCKTAIL NO. 1",
+      "ingredient": "GRENADINE",
+      "category": "SYRUP",
+      "type": "(GRENADINE)",
+      "page": 175
+    },
+    {
+      "name": "MILLIONAIRE COCKTAIL NO. 1",
+      "ingredient": "APRICOT LIQUEUR (SUCH AS ROTHMAN & WINTER APRICOT LIQUEUR OR GIFFARD ABRICOT DU ROUSSILLON)",
+      "category": "LIQUEUR",
+      "type": "(APRICOT)",
+      "page": 175
+    },
+    {
+      "name": "MILLIONAIRE COCKTAIL NO. 1",
+      "ingredient": "BLACK POT STILL RUM",
+      "category": "BLACK POT STILL RUM",
+      "type": "(BLACK POT STILL RUM)",
+      "page": 175
+    },
+    {
+      "name": "MILLIONAIRE COCKTAIL NO. 1",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 175
+    },
+    {
+      "name": "MILLIONAIRE COCKTAIL NO. 1",
+      "ingredient": "SLOE GIN",
+      "category": "GIN",
+      "type": "(SLOE)",
+      "page": 175
+    },
+    {
+      "name": "BATIDA DE MARACUJA E COCO",
+      "ingredient": "PASSION FRUIT PUREE",
+      "category": "PUREE",
+      "type": "(PASSION FRUIT)",
+      "page": 175
+    },
+    {
+      "name": "BATIDA DE MARACUJA E COCO",
+      "ingredient": "COCONUT MILK",
+      "category": "COCONUT MILK",
+      "type": "(COCONUT MILK)",
+      "page": 175
+    },
+    {
+      "name": "BATIDA DE MARACUJA E COCO",
+      "ingredient": "POT STILL AGED CACHAÇA",
+      "category": "CACHAÇA",
+      "type": "(CACHAÇA)",
+      "page": 175
+    },
+    {
+      "name": "BATIDA DE MARACUJA E COCO",
+      "ingredient": "SWEETENED CONDENSED MILK",
+      "category": "SWEETENED CONDENSED MILK",
+      "type": "(SWEETENED CONDENSED MILK)",
+      "page": 175
+    },
+    {
+      "name": "WRAY & TING",
+      "ingredient": "WRAY & NEPHEW WHITE OVERPROOF RUM",
+      "category": "RUM",
+      "type": "(WRAY & NEPHEW WHITE OVERPROOF)",
+      "page": 176
+    },
+    {
+      "name": "WRAY & TING",
+      "ingredient": "TING GRAPEFRUIT SODA",
+      "category": "SODA",
+      "type": "(GRAPEFRUIT ",
+      "page": 176
+    },
+    {
+      "name": "HIBISCUS RUM PUNCH",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 176
+    },
+    {
+      "name": "HIBISCUS RUM PUNCH",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 176
+    },
+    {
+      "name": "HIBISCUS RUM PUNCH",
+      "ingredient": "HIBISCUS LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(HIBISCUS)",
+      "page": 176
+    },
+    {
+      "name": "HIBISCUS RUM PUNCH",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 176
+    },
+    {
+      "name": "HIBISCUS RUM PUNCH",
+      "ingredient": "BLENDED AGED RUM (JAMAICA)",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 176
+    },
+    {
+      "name": "TI' PUNCH / TI' PUNCH VIEUX",
+      "ingredient": "MARTINIQUE SUGARCANE SYRUP",
+      "category": "SYRUP",
+      "type": "(MARTINIQUE SUGARCANE)",
+      "page": 179
+    },
+    {
+      "name": "TI' PUNCH / TI' PUNCH VIEUX",
+      "ingredient": "CANE AOC MARTINIQUE RHUM AGRICOLE BLANC",
+      "category": "RUM",
+      "type": "(CANE AOC MARTINIQUE RHUM AGRICOLE)",
+      "page": 179
+    },
+    {
+      "name": "TI' PUNCH / TI' PUNCH VIEUX",
+      "ingredient": "CANE AOC MARTINIQUE RHUM AGRICOLE VIEUX",
+      "category": "RUM",
+      "type": "(CANE AOC MARTINIQUE RHUM AGRICOLE VIEUX)",
+      "page": 179
+    },
+    {
+      "name": "TI' PUNCH / TI' PUNCH VIEUX",
+      "ingredient": "LIME SMALL ROUNDED CHUNK",
+      "category": "FRUIT",
+      "type": "(LIME)",
+      "page": 179
+    },
+    {
+      "name": "BARBADOS RUM PUNCH",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 179
+    },
+    {
+      "name": "BARBADOS RUM PUNCH",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 179
+    },
+    {
+      "name": "BARBADOS RUM PUNCH",
+      "ingredient": "BLENDED AGED RUM (BARBADOS)",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 179
+    },
+    {
+      "name": "BARBADOS RUM PUNCH",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 179
+    },
+    {
+      "name": "JAMAICAN MILK PUNCH",
+      "ingredient": "WHOLE MILK",
+      "category": "MILK",
+      "type": "(WHOLE)",
+      "page": 180
+    },
+    {
+      "name": "JAMAICAN MILK PUNCH",
+      "ingredient": "HEAVY WHIPPING CREAM",
+      "category": "CREAM",
+      "type": "(HEAVY WHIPPING)",
+      "page": 180
+    },
+    {
+      "name": "JAMAICAN MILK PUNCH",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 180
+    },
+    {
+      "name": "JAMAICAN MILK PUNCH",
+      "ingredient": "BLACK BLENDED RUM (JAMAICA)",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 180
+    },
+    {
+      "name": "JAMAICAN MILK PUNCH",
+      "ingredient": "VANILLA EXTRACT",
+      "category": "EXTRACT",
+      "type": "(VANILLA)",
+      "page": 180
+    },
+    {
+      "name": "JAMAICAN MILK PUNCH",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 180
+    },
+    {
+      "name": "CORN AND OIL",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 180
+    },
+    {
+      "name": "CORN AND OIL",
+      "ingredient": "BLENDED AGED RUM (BARBADOS)",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 180
+    },
+    {
+      "name": "CORN AND OIL",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 180
+    },
+    {
+      "name": "QUEEN'S PARK SWIZZLE",
+      "ingredient": "MINT LEAVES",
+      "category": "LEAVES",
+      "type": "(MINT)",
+      "page": 181
+    },
+    {
+      "name": "QUEEN'S PARK SWIZZLE",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 181
+    },
+    {
+      "name": "QUEEN'S PARK SWIZZLE",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 181
+    },
+    {
+      "name": "QUEEN'S PARK SWIZZLE",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 181
+    },
+    {
+      "name": "QUEEN'S PARK SWIZZLE",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 181
+    },
+    {
+      "name": "HOUSE SPICED RUM",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 193
+    },
+    {
+      "name": "HOUSE SPICED RUM",
+      "ingredient": "VANILLA BEAN",
+      "category": "SPICE",
+      "type": "(VANILLA BEAN)",
+      "page": 193
+    },
+    {
+      "name": "HOUSE SPICED RUM",
+      "ingredient": "STRIP ORANGE PEEL",
+      "category": "FRUIT",
+      "type": "(ORANGE)",
+      "page": 193
+    },
+    {
+      "name": "HOUSE SPICED RUM",
+      "ingredient": "ALLSPICE BERRIES",
+      "category": "SPICE",
+      "type": "(ALLSPICE)",
+      "page": 193
+    },
+    {
+      "name": "HOUSE SPICED RUM",
+      "ingredient": "CINNAMON STICK",
+      "category": "SPICE",
+      "type": "(CINNAMON)",
+      "page": 193
+    },
+    {
+      "name": "HOUSE SPICED RUM",
+      "ingredient": "WHOLE CLOVES",
+      "category": "SPICE",
+      "type": "(CLOVES)",
+      "page": 193
+    },
+    {
+      "name": "HOUSE SPICED RUM",
+      "ingredient": "GRATED NUTMEG",
+      "category": "SPICE",
+      "type": "(NUTMEG)",
+      "page": 193
+    },
+    {
+      "name": "HOUSE SPICED RUM",
+      "ingredient": "WHOLE BLACK PEPERCORNS",
+      "category": "SPICE",
+      "type": "(BLACK PEPERCORNS)",
+      "page": 193
+    },
+    {
+      "name": "HOUSE SPICED RUM",
+      "ingredient": "GINGER",
+      "category": "SPICE",
+      "type": "(GINGER)",
+      "page": 193
+    },
+    {
+      "name": "HOUSE SPICED RUM",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 193
+    },
+    {
+      "name": "THE CHADBURN",
+      "ingredient": "TAWNY PORT",
+      "category": "PORT",
+      "type": "(TAWNY)",
+      "page": 201
+    },
+    {
+      "name": "THE CHADBURN",
+      "ingredient": "PEAR LIQUEUR (SUCH AS MATHILDE POIRE)",
+      "category": "LIQUEUR",
+      "type": "(PEAR)",
+      "page": 201
+    },
+    {
+      "name": "THE CHADBURN",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 201
+    },
+    {
+      "name": "THE CHADBURN",
+      "ingredient": "BITTERMENS XOCOLATL (CHOCOLATE) MOLE BITTERS",
+      "category": "BITTERS",
+      "type": "(CHOCOLATE)",
+      "page": 201
+    },
+    {
+      "name": "A WISH FOR GRACE",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 201
+    },
+    {
+      "name": "A WISH FOR GRACE",
+      "ingredient": "2:1 SIMPLE SYRUP",
+      "category": "SYRUP",
+      "type": "(RICH SIMPLE)",
+      "page": 201
+    },
+    {
+      "name": "A WISH FOR GRACE",
+      "ingredient": "PIERRE FERRAND DRY CURACAO",
+      "category": "LIQUEUR",
+      "type": "(ORANGE)",
+      "page": 201
+    },
+    {
+      "name": "A WISH FOR GRACE",
+      "ingredient": "POT STILL LIGHTLY AGED RUM (NEW ENGLAND)",
+      "category": "POT STILL LIGHTLY AGED RUM",
+      "type": "(NEW ENGLAND)",
+      "page": 201
+    },
+    {
+      "name": "A WISH FOR GRACE",
+      "ingredient": "BLANDY'S 5 YEAR VERDELHO MADEIRA",
+      "category": "MADEIRA",
+      "type": "(MADEIRA)",
+      "page": 201
+    },
+    {
+      "name": "A WISH FOR GRACE",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 201
+    },
+    {
+      "name": "HOT BUTTERED RUM",
+      "ingredient": "HOT BUTTERED RUM BATTER",
+      "category": "HOT BUTTERED RUM BATTER",
+      "type": "(HOT BUTTERED RUM BATTER)",
+      "page": 202
+    },
+    {
+      "name": "HOT BUTTERED RUM",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 202
+    },
+    {
+      "name": "HOT BUTTERED RUM",
+      "ingredient": "WATER HOT",
+      "category": "WATER HOT",
+      "type": "(WATER HOT)",
+      "page": 202
+    },
+    {
+      "name": "HOT BUTTERED RUM BATTER",
+      "ingredient": "GROUND CINNAMON",
+      "category": "SPICE",
+      "type": "(CINNAMON)",
+      "page": 202
+    },
+    {
+      "name": "HOT BUTTERED RUM BATTER",
+      "ingredient": "GROUND NUTMEG",
+      "category": "SPICE",
+      "type": "(NUTMEG)",
+      "page": 202
+    },
+    {
+      "name": "HOT BUTTERED RUM BATTER",
+      "ingredient": "GROUND BLACK PEPPER",
+      "category": "SPICE",
+      "type": "(BLACK PEPPER)",
+      "page": 202
+    },
+    {
+      "name": "HOT BUTTERED RUM BATTER",
+      "ingredient": "GROUND CLOVES",
+      "category": "SPICE",
+      "type": "(CLOVES)",
+      "page": 202
+    },
+    {
+      "name": "HOT BUTTERED RUM BATTER",
+      "ingredient": "GROUND ALLSPICE",
+      "category": "SPICE",
+      "type": "(ALLSPICE)",
+      "page": 202
+    },
+    {
+      "name": "HOT BUTTERED RUM BATTER",
+      "ingredient": "GROUND ANISE SEED",
+      "category": "SPICE",
+      "type": "(ANISE SEED)",
+      "page": 202
+    },
+    {
+      "name": "HOT BUTTERED RUM BATTER",
+      "ingredient": "SALTED BUTTER",
+      "category": "SALTED BUTTER",
+      "type": "(SALTED BUTTER)",
+      "page": 202
+    },
+    {
+      "name": "HOT BUTTERED RUM BATTER",
+      "ingredient": "PACKED GOLDEN BROWN SUGAR",
+      "category": "PACKED GOLDEN BROWN SUGAR",
+      "type": "(PACKED GOLDEN BROWN SUGAR)",
+      "page": 202
+    },
+    {
+      "name": "HOT BUTTERED RUM BATTER",
+      "ingredient": "BRER RABBIT MIL MOLASSES",
+      "category": "MOLASSES",
+      "type": "(MOLASSES)",
+      "page": 202
+    },
+    {
+      "name": "HOT BUTTERED RUM BATTER",
+      "ingredient": "VANILLA EXTRACT",
+      "category": "EXTRACT",
+      "type": "(VANILLA)",
+      "page": 202
+    },
+    {
+      "name": "ABRICOT VIEUX",
+      "ingredient": "APRICOT LIQUEUR (SUCH AS ROTHMAN & WINTER APRICOT LIQUEUR OR GIFFARD ABRICOT DU ROUSSILLON)",
+      "category": "LIQUEUR",
+      "type": "(APRICOT)",
+      "page": 203
+    },
+    {
+      "name": "ABRICOT VIEUX",
+      "ingredient": "CANE AOC MARTINIQUE RHUM AGRICOLE VIEUX",
+      "category": "RUM",
+      "type": "(CANE AOC MARTINIQUE RHUM AGRICOLE VIEUX)",
+      "page": 203
+    },
+    {
+      "name": "ABRICOT VIEUX",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 203
+    },
+    {
+      "name": "ABRICOT VIEUX",
+      "ingredient": "ORANGE BITTERS",
+      "category": "BITTERS",
+      "type": "(ORANGE)",
+      "page": 203
+    },
+    {
+      "name": "PANIOLO OLD-FASHIONED",
+      "ingredient": "LI HING MUI SYRUP",
+      "category": "SYRUP",
+      "type": "(LI HING MUI)",
+      "page": 203
+    },
+    {
+      "name": "PANIOLO OLD-FASHIONED",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 203
+    },
+    {
+      "name": "PANIOLO OLD-FASHIONED",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 203
+    },
+    {
+      "name": "PORT ROYAL",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 204
+    },
+    {
+      "name": "PORT ROYAL",
+      "ingredient": "JERK SYRUP",
+      "category": "SYRUP",
+      "type": "(JERK)",
+      "page": 204
+    },
+    {
+      "name": "PORT ROYAL",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 204
+    },
+    {
+      "name": "PORT ROYAL",
+      "ingredient": "WRAY & NEPHEW WHITE OVERPROOF RUM",
+      "category": "RUM",
+      "type": "(WRAY & NEPHEW WHITE OVERPROOF)",
+      "page": 204
+    },
+    {
+      "name": "PORT ROYAL",
+      "ingredient": "HELLFIRE TINCTURE",
+      "category": "HELLFIRE TINCTURE",
+      "type": "(HELLFIRE TINCTURE)",
+      "page": 204
+    },
+    {
+      "name": "KINGSTON PALAKA",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 204
+    },
+    {
+      "name": "KINGSTON PALAKA",
+      "ingredient": "LI HING MUI POWDER",
+      "category": "LI HING MUI POWDER",
+      "type": "(LI HING MUI POWDER)",
+      "page": 204
+    },
+    {
+      "name": "KINGSTON PALAKA",
+      "ingredient": "DRAMBUIE",
+      "category": "LIQUEUR",
+      "type": "(DRAMBUIE)",
+      "page": 204
+    },
+    {
+      "name": "KINGSTON PALAKA",
+      "ingredient": "BLENDED AGED RUM (JAMAICA)",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 204
+    },
+    {
+      "name": "DONN DAY AFTERNOON",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 206
+    },
+    {
+      "name": "DONN DAY AFTERNOON",
+      "ingredient": "CINNAMON SYRUP",
+      "category": "SYRUP",
+      "type": "(CINNAMON)",
+      "page": 206
+    },
+    {
+      "name": "DONN DAY AFTERNOON",
+      "ingredient": "STIEGL-RADLER GRAPEFRUIT BEER",
+      "category": "BEER",
+      "type": "(GRAPEFRUIT)",
+      "page": 206
+    },
+    {
+      "name": "DONN DAY AFTERNOON",
+      "ingredient": "CANE AOC MARTINIQUE RHUM AGRICOLE BLANC",
+      "category": "RUM",
+      "type": "(CANE AOC MARTINIQUE RHUM AGRICOLE)",
+      "page": 206
+    },
+    {
+      "name": "BAIE DU GALION",
+      "ingredient": "GREEN CHARTREUSE",
+      "category": "LIQUEUR",
+      "type": "(CHARTREUSE GREEN)",
+      "page": 206
+    },
+    {
+      "name": "BAIE DU GALION",
+      "ingredient": "DRAMBUIE",
+      "category": "LIQUEUR",
+      "type": "(DRAMBUIE)",
+      "page": 206
+    },
+    {
+      "name": "BAIE DU GALION",
+      "ingredient": "CANE AOC MARTINIQUE RHUM AGRICOLE BLANC",
+      "category": "RUM",
+      "type": "(CANE AOC MARTINIQUE RHUM AGRICOLE)",
+      "page": 206
+    },
+    {
+      "name": "AGRICOLE GUAVA COOLER",
+      "ingredient": "BUNDABERG GUAVA SODA",
+      "category": "SODA",
+      "type": "(GUAVA)",
+      "page": 209
+    },
+    {
+      "name": "AGRICOLE GUAVA COOLER",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 209
+    },
+    {
+      "name": "AGRICOLE GUAVA COOLER",
+      "ingredient": "LICOR 43 SPICED LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(LICOR 43)",
+      "page": 209
+    },
+    {
+      "name": "AGRICOLE GUAVA COOLER",
+      "ingredient": "CANE AOC MARTINIQUE RHUM AGRICOLE BLANC",
+      "category": "RUM",
+      "type": "(CANE AOC MARTINIQUE RHUM AGRICOLE)",
+      "page": 209
+    },
+    {
+      "name": "AGRICOLE GUAVA COOLER",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 209
+    },
+    {
+      "name": "RICHARD SEALEBACH",
+      "ingredient": "PIERRE FERRAND DRY CURACAO",
+      "category": "LIQUEUR",
+      "type": "(ORANGE)",
+      "page": 209
+    },
+    {
+      "name": "RICHARD SEALEBACH",
+      "ingredient": "R.L. SEALE 10 YEAR RUM",
+      "category": "RUM",
+      "type": "(R.L. SEALE 10 YEAR)",
+      "page": 209
+    },
+    {
+      "name": "RICHARD SEALEBACH",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 209
+    },
+    {
+      "name": "RICHARD SEALEBACH",
+      "ingredient": "PEYCHAUD'S",
+      "category": "BITTERS",
+      "type": "(CREOLE)",
+      "page": 209
+    },
+    {
+      "name": "RICHARD SEALEBACH",
+      "ingredient": "CHAMPAGNE",
+      "category": "WINE",
+      "type": "(SPARKLING) ",
+      "page": 209
+    },
+    {
+      "name": "COSA NOSTRA #2",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 210
+    },
+    {
+      "name": "COSA NOSTRA #2",
+      "ingredient": "AMARO AVERNA",
+      "category": "AMARO",
+      "type": "(AVERNA)",
+      "page": 210
+    },
+    {
+      "name": "COSA NOSTRA #2",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 210
+    },
+    {
+      "name": "COSA NOSTRA #2",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 210
+    },
+    {
+      "name": "COSA NOSTRA #2",
+      "ingredient": "GINGER ALE",
+      "category": "SODA",
+      "type": "(GINGER)",
+      "page": 210
+    },
+    {
+      "name": "SPONTANEOUS RUMBUSTION",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 210
+    },
+    {
+      "name": "SPONTANEOUS RUMBUSTION",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 210
+    },
+    {
+      "name": "SPONTANEOUS RUMBUSTION",
+      "ingredient": "BLACK BLENDED OVERPROOF RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED OVERPROOF)",
+      "page": 210
+    },
+    {
+      "name": "SPONTANEOUS RUMBUSTION",
+      "ingredient": "POT STILL LIGHTLY AGED RUM (OVERPROOF)",
+      "category": "POT STILL LIGHTLY AGED RUM",
+      "type": "(OVERPROOF)",
+      "page": 210
+    },
+    {
+      "name": "SPONTANEOUS RUMBUSTION",
+      "ingredient": "BOILING WATER",
+      "category": "WATER BOILING",
+      "type": "(WATER BOILING)",
+      "page": 210
+    },
+    {
+      "name": "BOO LOO",
+      "ingredient": "(1-INCH-SQUARE) CHUNKS PINEAPPLE",
+      "category": "FRUIT",
+      "type": "(PINEAPPLE)",
+      "page": 249
+    },
+    {
+      "name": "BOO LOO",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 249
+    },
+    {
+      "name": "BOO LOO",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 249
+    },
+    {
+      "name": "BOO LOO",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 249
+    },
+    {
+      "name": "BOO LOO",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 249
+    },
+    {
+      "name": "BOO LOO",
+      "ingredient": "COLUMN STILL AGED RUM",
+      "category": "RUM",
+      "type": "(COLUMN STILL AGED)",
+      "page": 249
+    },
+    {
+      "name": "BOO LOO",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 249
+    },
+    {
+      "name": "BOO LOO",
+      "ingredient": "BLACK BLENDED OVERPROOF RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED OVERPROOF)",
+      "page": 249
+    },
+    {
+      "name": "BOO LOO",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 249
+    },
+    {
+      "name": "CARIBEÑO",
+      "ingredient": "COCONUT WATER",
+      "category": "COCONUT WATER",
+      "type": "(COCONUT WATER)",
+      "page": 249
+    },
+    {
+      "name": "CARIBEÑO",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 249
+    },
+    {
+      "name": "CARIBEÑO",
+      "ingredient": "COLUMN STILL LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(COLUMN STILL LIGHTLY AGED)",
+      "page": 249
+    },
+    {
+      "name": "CARIBEÑO",
+      "ingredient": "LONDON DRY GIN",
+      "category": "GIN",
+      "type": "(LONDON DRY)",
+      "page": 249
+    },
+    {
+      "name": "MONK'S RESPITE",
+      "ingredient": "COCONUT WATER",
+      "category": "COCONUT WATER",
+      "type": "(COCONUT WATER)",
+      "page": 251
+    },
+    {
+      "name": "MONK'S RESPITE",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 251
+    },
+    {
+      "name": "MONK'S RESPITE",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 251
+    },
+    {
+      "name": "MONK'S RESPITE",
+      "ingredient": "YELLOW CHARTREUSE",
+      "category": "LIQUEUR",
+      "type": "(YELLOW CHARTREUSE)",
+      "page": 251
+    },
+    {
+      "name": "MONK'S RESPITE",
+      "ingredient": "BROKER'S GIN",
+      "category": "GIN",
+      "type": "(BROKER'S)",
+      "page": 251
+    },
+    {
+      "name": "MONK'S RESPITE",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 251
+    },
+    {
+      "name": "MONK'S RESPITE",
+      "ingredient": "ORANGE BITTERS",
+      "category": "BITTERS",
+      "type": "(ORANGE)",
+      "page": 251
+    },
+    {
+      "name": "THE MASTADON",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 251
+    },
+    {
+      "name": "THE MASTADON",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 251
+    },
+    {
+      "name": "THE MASTADON",
+      "ingredient": "PASSION FRUIT PUREE",
+      "category": "PUREE",
+      "type": "(PASSION FRUIT)",
+      "page": 251
+    },
+    {
+      "name": "THE MASTADON",
+      "ingredient": "LICOR 43",
+      "category": "LIQUEUR",
+      "type": "(LICOR 43)",
+      "page": 251
+    },
+    {
+      "name": "THE MASTADON",
+      "ingredient": "MARASCHINO LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(MARASCHINO)",
+      "page": 251
+    },
+    {
+      "name": "THE MASTADON",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 251
+    },
+    {
+      "name": "THE MASTADON",
+      "ingredient": "BOURBON",
+      "category": "WHISKEY",
+      "type": "(BOURBON)",
+      "page": 251
+    },
+    {
+      "name": "THE MASTADON",
+      "ingredient": "PEYCHAUD'S BITTERS",
+      "category": "BITTERS",
+      "type": "(CREOLE)",
+      "page": 251
+    },
+    {
+      "name": "PIÑATA",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 252
+    },
+    {
+      "name": "PIÑATA",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 252
+    },
+    {
+      "name": "PIÑATA",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 252
+    },
+    {
+      "name": "PIÑATA",
+      "ingredient": "GINGER LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(GINGER)",
+      "page": 252
+    },
+    {
+      "name": "PIÑATA",
+      "ingredient": "ST. ELIZABETH ALLSPICE DRAM",
+      "category": "LIQUEUR",
+      "type": "(ALLSPICE DRAM)",
+      "page": 252
+    },
+    {
+      "name": "PIÑATA",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 252
+    },
+    {
+      "name": "PIÑATA",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 252
+    },
+    {
+      "name": "BUMBOAT",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 252
+    },
+    {
+      "name": "BUMBOAT",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 252
+    },
+    {
+      "name": "BUMBOAT",
+      "ingredient": "CINNAMON SYRUP",
+      "category": "SYRUP",
+      "type": "(CINNAMON)",
+      "page": 252
+    },
+    {
+      "name": "BUMBOAT",
+      "ingredient": "RYE",
+      "category": "WHISKEY",
+      "type": "(RYE)",
+      "page": 252
+    },
+    {
+      "name": "BUMBOAT",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 252
+    },
+    {
+      "name": "BUMBOAT",
+      "ingredient": "ALMOND EXTRACT",
+      "category": "EXTRACT",
+      "type": "(ALMOND)",
+      "page": 252
+    },
+    {
+      "name": "BUMBOAT",
+      "ingredient": "BITTERMENS 'ELEMAKULE TIKI BITTERS",
+      "category": "BITTERS",
+      "type": "(TIKI)",
+      "page": 252
+    },
+    {
+      "name": "BUMBOAT",
+      "ingredient": "BLACK BLENDED OVERPROOF RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED OVERPROOF)",
+      "page": 252
+    },
+    {
+      "name": "PLANTER'S PUNCH",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 258
+    },
+    {
+      "name": "PLANTER'S PUNCH",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 258
+    },
+    {
+      "name": "PLANTER'S PUNCH",
+      "ingredient": "ST. ELIZABETH ALLSPICE DRAM",
+      "category": "LIQUEUR",
+      "type": "(ALLSPICE DRAM)",
+      "page": 258
+    },
+    {
+      "name": "PLANTER'S PUNCH",
+      "ingredient": "BLENDED AGED RUM (JAMAICA)",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 258
+    },
+    {
+      "name": "PLANTER'S PUNCH",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 258
+    },
+    {
+      "name": "MAI TAI",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 261
+    },
+    {
+      "name": "MAI TAI",
+      "ingredient": "MAI TAI RICH SIMPLE SYRUP",
+      "category": "SYRUP",
+      "type": "(MAI TAI RICH SIMPLE)",
+      "page": 261
+    },
+    {
+      "name": "MAI TAI",
+      "ingredient": "ORGEAT",
+      "category": "SYRUP",
+      "type": "(ALMOND)",
+      "page": 261
+    },
+    {
+      "name": "MAI TAI",
+      "ingredient": "PIERRE FERRAND DRY CURACAO",
+      "category": "LIQUEUR",
+      "type": "(ORANGE)",
+      "page": 261
+    },
+    {
+      "name": "MAI TAI",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 261
+    },
+    {
+      "name": "DOCTOR FUNK",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 266
+    },
+    {
+      "name": "DOCTOR FUNK",
+      "ingredient": "GRENADINE",
+      "category": "SYRUP",
+      "type": "(GRENADINE)",
+      "page": 266
+    },
+    {
+      "name": "DOCTOR FUNK",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 266
+    },
+    {
+      "name": "DOCTOR FUNK",
+      "ingredient": "DEMERARA SIMPLE SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 266
+    },
+    {
+      "name": "DOCTOR FUNK",
+      "ingredient": "HERBSAINT",
+      "category": "ABSINTHE",
+      "type": "(HERBSAINT)",
+      "page": 266
+    },
+    {
+      "name": "DOCTOR FUNK",
+      "ingredient": "BLACK POT STILL UNAGED RUM",
+      "category": "RUM",
+      "type": "(BLACK POT STILL UNAGED)",
+      "page": 266
+    },
+    {
+      "name": "DOCTOR FUNK",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 266
+    },
+    {
+      "name": "ZOMBIE",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 268
+    },
+    {
+      "name": "ZOMBIE",
+      "ingredient": "GRAPEFRUIT JUICE",
+      "category": "JUICE",
+      "type": "(GRAPEFRUIT)",
+      "page": 268
+    },
+    {
+      "name": "ZOMBIE",
+      "ingredient": "CINNAMON SYRUP",
+      "category": "SYRUP",
+      "type": "(CINNAMON)",
+      "page": 268
+    },
+    {
+      "name": "ZOMBIE",
+      "ingredient": "GRENADINE",
+      "category": "SYRUP",
+      "type": "(GRENADINE)",
+      "page": 268
+    },
+    {
+      "name": "ZOMBIE",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 268
+    },
+    {
+      "name": "ZOMBIE",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 268
+    },
+    {
+      "name": "ZOMBIE",
+      "ingredient": "COLUMN STILL AGED RUM",
+      "category": "RUM",
+      "type": "(COLUMN STILL AGED)",
+      "page": 268
+    },
+    {
+      "name": "ZOMBIE",
+      "ingredient": "BLACK BLENDED OVERPROOF RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED OVERPROOF)",
+      "page": 268
+    },
+    {
+      "name": "ZOMBIE",
+      "ingredient": "HERBSTURA",
+      "category": "BITTERS",
+      "type": "(HERBSTURA)",
+      "page": 268
+    },
+    {
+      "name": "NAVY GROG",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 271
+    },
+    {
+      "name": "NAVY GROG",
+      "ingredient": "GRAPEFRUIT JUICE",
+      "category": "JUICE",
+      "type": "(GRAPEFRUIT)",
+      "page": 271
+    },
+    {
+      "name": "NAVY GROG",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 271
+    },
+    {
+      "name": "NAVY GROG",
+      "ingredient": "ST. ELIZABETH ALLSPICE DRAM",
+      "category": "LIQUEUR",
+      "type": "(ALLSPICE DRAM)",
+      "page": 271
+    },
+    {
+      "name": "NAVY GROG",
+      "ingredient": "POT STILL LIGHTLY AGED RUM (OVERPROOF)",
+      "category": "POT STILL LIGHTLY AGED RUM",
+      "type": "(OVERPROOF)",
+      "page": 271
+    },
+    {
+      "name": "NAVY GROG",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 271
+    },
+    {
+      "name": "NAVY GROG",
+      "ingredient": "COLUMN STILL AGED RUM",
+      "category": "RUM",
+      "type": "(COLUMN STILL AGED)",
+      "page": 271
+    },
+    {
+      "name": "SCORPION",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 272
+    },
+    {
+      "name": "SCORPION",
+      "ingredient": "ORANGE JUICE",
+      "category": "JUICE",
+      "type": "(ORANGE)",
+      "page": 272
+    },
+    {
+      "name": "SCORPION",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 272
+    },
+    {
+      "name": "SCORPION",
+      "ingredient": "ORGEAT",
+      "category": "SYRUP",
+      "type": "(ALMOND)",
+      "page": 272
+    },
+    {
+      "name": "SCORPION",
+      "ingredient": "BRANDY",
+      "category": "BRANDY",
+      "type": "(GRAPE)",
+      "page": 272
+    },
+    {
+      "name": "SCORPION",
+      "ingredient": "LONDON DRY GIN",
+      "category": "GIN",
+      "type": "(LONDON DRY)",
+      "page": 272
+    },
+    {
+      "name": "SCORPION",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 272
+    },
+    {
+      "name": "FOG CUTTER",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 275
+    },
+    {
+      "name": "FOG CUTTER",
+      "ingredient": "ORANGE JUICE",
+      "category": "JUICE",
+      "type": "(ORANGE)",
+      "page": 275
+    },
+    {
+      "name": "FOG CUTTER",
+      "ingredient": "ORGEAT",
+      "category": "SYRUP",
+      "type": "(ALMOND)",
+      "page": 275
+    },
+    {
+      "name": "FOG CUTTER",
+      "ingredient": "PISCO",
+      "category": "BRANDY",
+      "type": "(PISCO)",
+      "page": 275
+    },
+    {
+      "name": "FOG CUTTER",
+      "ingredient": "GIN",
+      "category": "GIN",
+      "type": "(GIN)",
+      "page": 275
+    },
+    {
+      "name": "FOG CUTTER",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 275
+    },
+    {
+      "name": "FOG CUTTER",
+      "ingredient": "SHERRY OLOROSO",
+      "category": "SHERRY",
+      "type": "(OLOROSO)",
+      "page": 275
+    },
+    {
+      "name": "SINGAPORE SLING",
+      "ingredient": "SELTZER",
+      "category": "SODA",
+      "type": "(SODA)",
+      "page": 276
+    },
+    {
+      "name": "SINGAPORE SLING",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 276
+    },
+    {
+      "name": "SINGAPORE SLING",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 276
+    },
+    {
+      "name": "SINGAPORE SLING",
+      "ingredient": "CHERRY HEERING LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(CHERRY HEERING)",
+      "page": 276
+    },
+    {
+      "name": "SINGAPORE SLING",
+      "ingredient": "BENEDICTINE",
+      "category": "LIQUEUR",
+      "type": "(BENEDICTINE)",
+      "page": 276
+    },
+    {
+      "name": "SINGAPORE SLING",
+      "ingredient": "LONDON DRY GIN",
+      "category": "GIN",
+      "type": "(LONDON DRY)",
+      "page": 276
+    },
+    {
+      "name": "SINGAPORE SLING",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 276
+    },
+    {
+      "name": "SINGAPORE SLING",
+      "ingredient": "ORANGE BITTERS",
+      "category": "BITTERS",
+      "type": "(ORANGE)",
+      "page": 276
+    },
+    {
+      "name": "HONDO HATTIE'S JUNGLE PUNCH!",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 311
+    },
+    {
+      "name": "HONDO HATTIE'S JUNGLE PUNCH!",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 311
+    },
+    {
+      "name": "HONDO HATTIE'S JUNGLE PUNCH!",
+      "ingredient": "BLUE CURACAO",
+      "category": "LIQUEUR",
+      "type": "(ORANGE BLUE)",
+      "page": 311
+    },
+    {
+      "name": "HONDO HATTIE'S JUNGLE PUNCH!",
+      "ingredient": "TAWNY PORT",
+      "category": "PORT",
+      "type": "(TAWNY)",
+      "page": 311
+    },
+    {
+      "name": "HONDO HATTIE'S JUNGLE PUNCH!",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 311
+    },
+    {
+      "name": "HONDO HATTIE'S JUNGLE PUNCH!",
+      "ingredient": "PEAR LIQUEUR (SUCH AS MATHILDE POIRE)",
+      "category": "LIQUEUR",
+      "type": "(PEAR)",
+      "page": 311
+    },
+    {
+      "name": "HONDO HATTIE'S JUNGLE PUNCH!",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 311
+    },
+    {
+      "name": "HONDO HATTIE'S JUNGLE PUNCH!",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 311
+    },
+    {
+      "name": "KAHIKO PUNCH",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 311
+    },
+    {
+      "name": "KAHIKO PUNCH",
+      "ingredient": "PASSION FRUIT HONEY",
+      "category": "SYRUP",
+      "type": "(PASSION FRUIT HONEY)",
+      "page": 311
+    },
+    {
+      "name": "KAHIKO PUNCH",
+      "ingredient": "CINNAMON SYRUP",
+      "category": "SYRUP",
+      "type": "(CINNAMON)",
+      "page": 311
+    },
+    {
+      "name": "KAHIKO PUNCH",
+      "ingredient": "HIBISCUS LIQUEUR",
+      "category": "LIQUEUR",
+      "type": "(HIBISCUS)",
+      "page": 311
+    },
+    {
+      "name": "KAHIKO PUNCH",
+      "ingredient": "POT STILL UNAGED RUM",
+      "category": "RUM",
+      "type": "(POT STILL UNAGED)",
+      "page": 311
+    },
+    {
+      "name": "KAHIKO PUNCH",
+      "ingredient": "BITTERMENS 'ELEMAKULE TIKI BITTERS",
+      "category": "BITTERS",
+      "type": "(TIKI)",
+      "page": 311
+    },
+    {
+      "name": "TRIUMVIRATE PUNCH",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 312
+    },
+    {
+      "name": "TRIUMVIRATE PUNCH",
+      "ingredient": "PASSION FRUIT HONEY",
+      "category": "SYRUP",
+      "type": "(PASSION FRUIT HONEY)",
+      "page": 312
+    },
+    {
+      "name": "TRIUMVIRATE PUNCH",
+      "ingredient": "ST. ELIZABETH ALLSPICE DRAM",
+      "category": "LIQUEUR",
+      "type": "(ALLSPICE DRAM)",
+      "page": 312
+    },
+    {
+      "name": "TRIUMVIRATE PUNCH",
+      "ingredient": "POT STILL UNAGED RUM",
+      "category": "RUM",
+      "type": "(POT STILL UNAGED)",
+      "page": 312
+    },
+    {
+      "name": "TRIUMVIRATE PUNCH",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 312
+    },
+    {
+      "name": "TRIUMVIRATE PUNCH",
+      "ingredient": "GRATED NUTMEG",
+      "category": "SPICE",
+      "type": "(NUTMEG)",
+      "page": 312
+    },
+    {
+      "name": "EUREKA PUNCH",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 312
+    },
+    {
+      "name": "EUREKA PUNCH",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 312
+    },
+    {
+      "name": "EUREKA PUNCH",
+      "ingredient": "YELLOW CHARTREUSE",
+      "category": "LIQUEUR",
+      "type": "(YELLOW CHARTREUSE)",
+      "page": 312
+    },
+    {
+      "name": "EUREKA PUNCH",
+      "ingredient": "COLUMN STILL AGED RUM",
+      "category": "RUM",
+      "type": "(COLUMN STILL AGED)",
+      "page": 312
+    },
+    {
+      "name": "EUREKA PUNCH",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 312
+    },
+    {
+      "name": "EUREKA PUNCH",
+      "ingredient": "GINGER ALE",
+      "category": "SODA",
+      "type": "(GINGER)",
+      "page": 312
+    },
+    {
+      "name": "YULETIDAL WAVE",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 313
+    },
+    {
+      "name": "YULETIDAL WAVE",
+      "ingredient": "LEMON JUICE",
+      "category": "JUICE",
+      "type": "(LEMON)",
+      "page": 313
+    },
+    {
+      "name": "YULETIDAL WAVE",
+      "ingredient": "PEAR LIQUEUR (SUCH AS MATHILDE POIRE)",
+      "category": "LIQUEUR",
+      "type": "(PEAR)",
+      "page": 313
+    },
+    {
+      "name": "YULETIDAL WAVE",
+      "ingredient": "LICOR 43",
+      "category": "LIQUEUR",
+      "type": "(LICOR 43)",
+      "page": 313
+    },
+    {
+      "name": "YULETIDAL WAVE",
+      "ingredient": "ST. ELIZABETH ALLSPICE DRAM",
+      "category": "LIQUEUR",
+      "type": "(ALLSPICE DRAM)",
+      "page": 313
+    },
+    {
+      "name": "YULETIDAL WAVE",
+      "ingredient": "BRANDY",
+      "category": "BRANDY",
+      "type": "(GRAPE)",
+      "page": 313
+    },
+    {
+      "name": "YULETIDAL WAVE",
+      "ingredient": "BOURBON",
+      "category": "WHISKEY",
+      "type": "(BOURBON)",
+      "page": 313
+    },
+    {
+      "name": "YULETIDAL WAVE",
+      "ingredient": "COLUMN STILL AGED RUM",
+      "category": "RUM",
+      "type": "(COLUMN STILL AGED)",
+      "page": 313
+    },
+    {
+      "name": "RUMBUSTION PUNCH",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 313
+    },
+    {
+      "name": "RUMBUSTION PUNCH",
+      "ingredient": "DEMERARA SYRUP",
+      "category": "SYRUP",
+      "type": "(DEMERARA)",
+      "page": 313
+    },
+    {
+      "name": "RUMBUSTION PUNCH",
+      "ingredient": "CINNAMON SYRUP",
+      "category": "SYRUP",
+      "type": "(CINNAMON)",
+      "page": 313
+    },
+    {
+      "name": "RUMBUSTION PUNCH",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 313
+    },
+    {
+      "name": "RUMBUSTION PUNCH",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 313
+    },
+    {
+      "name": "RUMBUSTION PUNCH",
+      "ingredient": "HERBSTURA",
+      "category": "BITTERS",
+      "type": "(HERBSTURA)",
+      "page": 313
+    },
+    {
+      "name": "PUKA PUNCH",
+      "ingredient": "LIME JUICE",
+      "category": "JUICE",
+      "type": "(LIME)",
+      "page": 318
+    },
+    {
+      "name": "PUKA PUNCH",
+      "ingredient": "ORANGE JUICE",
+      "category": "JUICE",
+      "type": "(ORANGE)",
+      "page": 318
+    },
+    {
+      "name": "PUKA PUNCH",
+      "ingredient": "PINEAPPLE JUICE",
+      "category": "JUICE",
+      "type": "(PINEAPPLE)",
+      "page": 318
+    },
+    {
+      "name": "PUKA PUNCH",
+      "ingredient": "HONEY SYRUP",
+      "category": "SYRUP",
+      "type": "(HONEY)",
+      "page": 318
+    },
+    {
+      "name": "PUKA PUNCH",
+      "ingredient": "PASSION FRUIT SYRUP",
+      "category": "SYRUP",
+      "type": "(PASSION FRUIT)",
+      "page": 318
+    },
+    {
+      "name": "PUKA PUNCH",
+      "ingredient": "JOHN D. TAYLOR'S VELVET FALERNUM",
+      "category": "LIQUEUR",
+      "type": "(FALERNUM)",
+      "page": 318
+    },
+    {
+      "name": "PUKA PUNCH",
+      "ingredient": "BLENDED AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED AGED)",
+      "page": 318
+    },
+    {
+      "name": "PUKA PUNCH",
+      "ingredient": "BLENDED LIGHTLY AGED RUM",
+      "category": "RUM",
+      "type": "(BLENDED LIGHTLY AGED)",
+      "page": 318
+    },
+    {
+      "name": "PUKA PUNCH",
+      "ingredient": "BLACK BLENDED RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED)",
+      "page": 318
+    },
+    {
+      "name": "PUKA PUNCH",
+      "ingredient": "ANGOSTURA BITTERS",
+      "category": "BITTERS",
+      "type": "(AROMATIC)",
+      "page": 318
+    },
+    {
+      "name": "PUKA PUNCH",
+      "ingredient": "BLACK BLENDED OVERPROOF RUM",
+      "category": "RUM",
+      "type": "(BLACK BLENDED OVERPROOF)",
+      "page": 318
+    }
+  ]
+}
